@@ -10,6 +10,16 @@
 ASP.NET Core 8 · EF Core, SQLite · Cookie auth · React, TypeScript, Vite ·
 Playwright, Chromium · MediaRecorder · FFmpeg · whisper.cpp · SSE · Docker
 
+## Как выглядит
+
+<p align="center">
+<img src="docs/landing.png" alt="Лендинг: расшифровка аудио и созвонов" width="100%">
+</p>
+<p align="center">
+<img src="docs/files.png" alt="Загрузка аудиофайла" width="49%">
+<img src="docs/meetings.png" alt="Запуск бота в Яндекс Телемост" width="49%">
+</p>
+
 ## Архитектура
 
 У Телемоста нет API записи. Звук берётся из того же WebRTC, что слышит браузер.
